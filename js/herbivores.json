@@ -1,0 +1,14 @@
+[
+	{
+        "animal": "rooster",
+        "name": "Chicken Little"
+    },
+    {
+    	"animal": "cow",
+    	"name": "Molly the Cow"
+    },
+    {
+    	"animal": "rabbit",
+    	"name": "Peter Rabbit"
+    }
+]
